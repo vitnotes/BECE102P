@@ -1,5 +1,5 @@
 # BECE102P
-This repository contains study materials, including lab reports and presentations, for BECE102P - Digital Systems Design Lab. Please click [here](https://github.com/vitnotes/BECE309L.git) and follow the below procedure to download the notes.
+This repository contains study materials, including lab reports and presentations, for BECE102P - Digital Systems Design Lab. Please click [here](https://github.com/vitnotes/BECE102P.git) and follow the below procedure to download the notes.
 
 ![How to download the notes?](HowToDownload.gif)
 
